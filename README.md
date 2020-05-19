@@ -7,6 +7,10 @@ Your 4 year old niece is struggling to memorize single digit numbers. You have d
 
 Your function should analyze the input supplied and return the count of the numbers until the conditions mentioned above holds true. Make sure you add unit tests to cover each of the cases mentioned below. Feel free to add your own.
 
+<hr>
+
+# Sample Data
+
 INPUT :
 
 {
