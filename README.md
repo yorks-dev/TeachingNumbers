@@ -3,3 +3,5 @@
 
 1. Computer has Catch2 locally installed.
 
+Code by Ayush Dutta
+
