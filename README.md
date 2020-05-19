@@ -23,7 +23,7 @@ INPUT :
  "3......9"
 }
 
- OUTPUT : 4 /okk
+ OUTPUT : 4 
 
 INPUT :
 
@@ -33,7 +33,7 @@ INPUT :
  "3......9"
 }
 
- OUTPUT : 4 /okk
+ OUTPUT : 4 
 
  INPUT :
  {
@@ -46,7 +46,7 @@ INPUT :
  "..98"
  }
 
-OUTPUT : 10  /okk
+OUTPUT : 10
 
 
 INPUT :
@@ -60,7 +60,7 @@ INPUT :
  "..98"
  }
 
-OUTPUT : 5  /okk
+OUTPUT : 5 
 
 INPUT :
  {
@@ -71,19 +71,19 @@ INPUT :
  "..43"
  }
 
-OUTPUT : 9 /okk
+OUTPUT : 9 
 
 INPUT :
  {
  "1024356789"
  }
 
-OUTPUT : 2  /okk
+OUTPUT : 2 
 
 INPUT : 
 "9786543210"
 
-OUTPUT : 7 /okk
+OUTPUT : 7 
 
 <hr>
 
