@@ -79,7 +79,7 @@ OUTPUT : 7 /okk
 
 <hr>
 
-#NOTE :
+# NOTE :
   1. The teacNumber.cpp also includes the test cases I used to validate the program.
   2. I used the catch2 for testing. It is locally installed on my PC.
   3. To add another test case, simply add another REQUIRE(); under TESE_CASE().
